@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gold Tracker India</string>
+
+    <!-- Official Google AdMob Test IDs (Safe for development; replace with your AdMob IDs before release) -->
+    <string name="admob_app_id">ca-app-pub-1182422520429470~7147951488</string>
+    <string name="admob_banner_unit_id">ca-app-pub-1182422520429470/7503174703</string>
+    <string name="admob_rewarded_unit_id">ca-app-pub-1182422520429470/7231711967</string>
+</resources>
